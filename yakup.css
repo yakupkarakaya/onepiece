@@ -1,0 +1,18 @@
+/* class-> .text-red {} */
+/* id -> #id-bilgisi {} */
+.text-red {
+    color:red;
+}
+.fs-small {
+font-size: 20px;
+}
+
+.fs-medium { font-size: 25px;
+
+}
+
+.fs-large {
+    font-size: 30px;
+
+
+}
